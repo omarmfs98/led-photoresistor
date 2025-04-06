@@ -1,6 +1,6 @@
 ## 🇺🇸 English
 
-### Sensor de Luz con LED Progress Bar (ESP32 + Photoresistor)
+### Light Sensor with LED Progress Bar (ESP32 + Photoresistor)
 
 This project uses a **photoresistor (light sensor)** connected to an ESP32 to control a **visual progress bar made of 6 LEDs**. As light intensity increases, the LEDs turn on one by one from the first blue to the final red LED.
 
