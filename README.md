@@ -39,7 +39,7 @@ Este proyecto utiliza un **fotoresistor (sensor de luz)** conectado a un ESP32 p
 
 ## 📸 Vista previa
 
-> Inserta aquí una foto o gif del proyecto funcionando.
+![Demo del proyecto](media/demo.gif)
 
 ## 🧠 Créditos
 
